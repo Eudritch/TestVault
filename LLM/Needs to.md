@@ -1,0 +1,1 @@
+I want packages llm to be able to set up reminders, make research, set notes and global rules, and be able to setup some to never forget, basically having an unforgetable context that it can write or make edit too. this context should have add and remove functionality.

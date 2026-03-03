@@ -1,0 +1,1 @@
+The kernel should be simple easy straight forward, working in harmony with easy code, most memory will be handled in the background but will have simple memory system to keep things in context

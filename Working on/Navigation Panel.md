@@ -1,0 +1,5 @@
+- Fix android navigation
+- Figure out what's needed
+- Show in system explorer, if in tauri and desktop for files and folder only.
+- If on mobile and tauri show share button and use device sharing.
+- Work with breadcrumbs and navigating to subdir or linked.
